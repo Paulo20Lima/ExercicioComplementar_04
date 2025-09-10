@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Futebol",
+    "description": "Esporte futebol.",
+    "popularity": 9.8,
+    "image": "assets/images/futebol.png"
+  },
+  {
+    "id": 2,
+    "name": "Vôlei",
+    "description": "Esporte vôlei.",
+    "popularity": 8.7,
+    "image": "assets/images/volei.png"
+  },
+  {
+    "id": 3,
+    "name": "Basquete",
+    "description": "Esporte basquete.",
+    "popularity": 9.0,
+    "image": "assets/images/basquete.png"
+  }
+]
