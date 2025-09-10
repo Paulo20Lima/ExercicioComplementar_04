@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "br.com.seurm.favorite_sports"
+    namespace = "br.com.552444.favorite_sports"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
